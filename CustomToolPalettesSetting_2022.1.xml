@@ -1029,7 +1029,7 @@
             <isVisible>true</isVisible>
           </tool>
           <tool>
-            <name>Satelite Tool</name>
+            <name>Satellite Tool</name>
             <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities\Yuma Tools\First Tools\Satellite Tool\res\Satelite.png</icon>
             <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities\Yuma Tools\First Tools\Satellite Tool\src\sateliteTool_ui.py</filename>
             <tooltype>ui_tool</tooltype>
