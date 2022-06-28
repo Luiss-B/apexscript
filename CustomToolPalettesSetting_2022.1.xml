@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <location>
+    <name>Apex Utilities</name>
+    <isactive>true</isactive>
+    <location>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities</location>
+    <palettes>
+      <palette>
+        <Version>0</Version>
+        <tools>
+          <tool>
+            <name>Point Mass From Solid</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Attribution\Point Mass From Solid\res\dsPointMass.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Attribution\Point Mass From Solid\src\dsPointMass_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Attribution</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Add Ply Stack</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Composites\AddPlyStack\res\_Icon_stack2.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Composites\AddPlyStack\src\UI_addPlyStack.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Composites</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Ply Stack from CSV</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Composites\AddPlyStackCSV\res\_Icon_stackCSV.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Composites\AddPlyStackCSV\src\UI_addPlyStackCSV.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Composites</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Import Sheets</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Composites\importSheets\res\_Icon_importSheets.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Composites\importSheets\src\UI_importSheets.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Composites</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Import Stacks</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Composites\importStacks\res\_Icon_importStacks.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Composites\importStacks\src\UI_importStacks.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Composites</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Composite Design Explorer</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Composites\CDE\res\Icon_SimCRAFT.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Composites\CDE\src\UI_CDE.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Composites</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>ShowHide Panels</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Composites\ShowHide Panels\res\auHidePanels.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Composites\ShowHide Panels\src\auHideAllPanels.py</filename>
+            <tooltype>noui_tool</tooltype>
+            <version>0</version>
+            <groupname>Composites</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Color Ply Stack</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\attribution\composites\colorplystack\res\colorPlyStack.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\attribution\composites\colorplystack\src\UI_colorPlyStack.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Composites</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>updatePlies</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\attribution\composites\update plies\res\updatePlies_32x32.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\attribution\composites\update plies\src\updatePlies_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Composites</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Update Zones Properties</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\attribution\composites\update zone properties\res\updateZones_32x32.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\attribution\composites\update zone properties\src\updateZones_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Composites</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>3D Lug Load</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\LoadsBCs\3D Lug Load\res\auLugLoad.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\LoadsBCs\3D Lug Load\src\auLugLoad_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>LoadsBCs</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Add RFORCE</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\LoadsBCs\Add RFORCE\res\auAddRFORCE.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\LoadsBCs\Add RFORCE\src\auAddRFORCE_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>LoadsBCs</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Force at Multiple Nodes</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\LoadsBCs\Force at Multiple Nodes\res\auCreateForceAtNodes.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\LoadsBCs\Force at Multiple Nodes\src\auForceAtNodes_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>LoadsBCs</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Distributed Load On Straight Edge</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\LoadsBCs\Distributed Load on Straight Edge\res\auEdgeDistributedLoad.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\LoadsBCs\Distributed Load on Straight Edge\src\auDistributedLoadOnStraightEdge_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>LoadsBCs</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Display Spatial Load</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\attribution\loadsbcs\display spatial load\res\display_field_as_fringe.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\attribution\loadsbcs\display spatial load\src\display_spatial_load_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>LoadsBCs</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Map spatial load</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\attribution\loadsbcs\map spatial load\res\map_field.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\attribution\loadsbcs\map spatial load\src\display_map_field_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>LoadsBCs</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Color By Material</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Material\Color By Material\res\colorByMaterial.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Material\Color By Material\src\auMaterialColorCodePlot_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Material</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>MyMaterials</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Material\MyMaterials\res\icon.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Material\MyMaterials\src\_UI_MyMaterials.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Material</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Import Materials</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Material\Import Materials\res\bdfImport.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Material\Import Materials\src\bdfImport_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Material</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Load Materials</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Material\Load Materials\res\loadMaterials.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\Material\Load Materials\src\loadMaterial_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Material</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+        </tools>
+        <Name>Attribution Utilities</Name>
+        <Icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution\res\attributionUtilities.png</Icon>
+        <DirectoryName>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Attribution</DirectoryName>
+        <IsActive>true</IsActive>
+        <Description>Attribution Utilities</Description>
+      </palette>
+      <palette>
+        <Version>0</Version>
+        <tools>
+          <tool>
+            <name>Hole to Hole</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Hole to Hole\res\auFast.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Hole to Hole\src\auCreateFasteners_Hole2Hole_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Create Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Point to Point</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Point to Point\res\auCreateP2PConnectors.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Point to Point\src\auAutoConnect_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Create Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>From mwf</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\From mwf\res\auFromMWF.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\From mwf\src\auFromMWF_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Create Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Spider Fasteners</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Spider Fasteners\res\auSpiderFast.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Spider Fasteners\src\auSpiderFast_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Create Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Identify Bolts</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Identify Bolts\res\IdentifyBolts.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Identify Bolts\src\IdentifyBoltsCreate1dConnectors_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Create Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Create Bolts from Fastener Curves</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Create Fasteners from Bolt Curves\res\fastener.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Create Fasteners from Bolt Curves\src\Create1DConnectors_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Create Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Create 3D Bolts from Fastener Curves</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Create 3D Bolts\res\create_3D_bolts.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Create 3D Bolts\src\Create3dBolts_v03a_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Create Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Manual Preload</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Manual Preload\res\manualPreload.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Fasteners\Manual Preload\src\manualPreload_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Create Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Rutman Fasteners</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\fastener tools\create fasteners\aurfast\res\auRFAST.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\fastener tools\create fasteners\aurfast\src\auCreateRFAST_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Create Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Delete Rutman Fasteners</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\fastener tools\create fasteners\deleterfast\res\auDeleteRFAST.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\fastener tools\create fasteners\deleterfast\src\auDeleteRFAST_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Create Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Fasteners from Curves</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\fastener tools\create fasteners\fastenersfromcurves\res\ConnectorsFromCurves.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\fastener tools\create fasteners\fastenersfromcurves\src\CreateConnectorsFromCurves_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Create Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Update CBUSH</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Update Fasteners\Update CBUSH\res\auUpdateCbush.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Update Fasteners\Update CBUSH\src\auUpdateCBUSH_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Update Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Update Connectors</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Update Fasteners\Update Connectors\res\auFixBrokenConnectors.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Update Fasteners\Update Connectors\src\auUpdateConnectors_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Update Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Update Flexible Links</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Update Fasteners\Update Flexible Links\res\auUpdateFlexibleLinks.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Update Fasteners\Update Flexible Links\src\auUpdateFlexibleLinks_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Update Fasteners</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Create Surface Seam Weld</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Welds\Create Surface Seam Weld\res\seam2.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\Create Welds\Create Surface Seam Weld\src\Seam_Weld_GUI_compiled.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Create Welds</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+        </tools>
+        <Name>Fastener Tools</Name>
+        <Icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools\res\bolt_1.png</Icon>
+        <DirectoryName>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Fastener Tools</DirectoryName>
+        <IsActive>true</IsActive>
+        <Description>Scripts to automatically create/manage/update fasteners</Description>
+      </palette>
+      <palette>
+        <Version>0</Version>
+        <tools>
+          <tool>
+            <name>Auto Connect Vertices</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\FEM\Auto Connect Vertices\res\auConnectVerts.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\FEM\Auto Connect Vertices\src\auConnectVerts_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>FEM</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Create Node XYZ</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\FEM\Create Node XYZ\res\auNodeAtXYZ.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\FEM\Create Node XYZ\src\auNodeAtXYZ_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>FEM</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Auto Tie</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\FEM\Auto Tie\res\auAutoTie.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\FEM\Auto Tie\src\auAutoTie_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>FEM</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Node Offset</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\FEM\Node Offset\res\node_offset.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\FEM\Node Offset\src\node_offset_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>FEM</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Node Update Coordinates</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\FEM\Node Update Coordinates\res\node_updatecoordinates.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\FEM\Node Update Coordinates\src\node_updatecoordinates_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>FEM</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Node Center</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\FEM\Node Center\res\node_center.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\FEM\Node Center\src\node_center_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>FEM</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Create Point Interpolate</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Create Point Interpolate\res\auCreatePointInterpolate.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Create Point Interpolate\src\auCreatePointInterpolate_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Create Surface XYZ</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Create Surface XYZ\res\auCreateSurfaceXYZ.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Create Surface XYZ\src\auCreateSurfaceXYZ_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Find Short And Small</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Find Short And Small\res\auFindShortandSmall.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Find Short And Small\src\auFindShortandSmall_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Label Free Edges</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Label Free Edges\res\auLabelFreeEdges.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Label Free Edges\src\auLabelFreeEdges_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Remove Duplicate Surfaces</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Remove Duplicate Surfaces\res\auRemoveDuplicateSurfaces.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Remove Duplicate Surfaces\src\auRemoveDuplicateSurfaces_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Disassociate Mesh Body</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Disassociate Mesh Body\res\auDisassociateMeshBody.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Disassociate Mesh Body\src\auDisassociateMeshBody_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Find near or penetrating solids</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Find near or penetrating solids\res\menu_icon.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Find near or penetrating solids\src\find_near_objects_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Show Associated Meshes</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Show Associated Meshes\res\solid_mesh.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Show Associated Meshes\src\Show_mesh_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Repeat Copy</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Repeat Copy\res\auRepeatCopy.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Repeat Copy\src\auRepeatCopy_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Collapse Vertices</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Collapse Vertices\res\auCollapseVertices.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\Geometry\Collapse Vertices\src\auCollapseVertices_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+        </tools>
+        <Name>Geometry and FEM Utilities</Name>
+        <Icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM\res\geometry_and_femUtilities.png</Icon>
+        <DirectoryName>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\GeometryAndFEM</DirectoryName>
+        <IsActive>true</IsActive>
+        <Description>Geometry and FEM Utilities</Description>
+      </palette>
+      <palette>
+        <Version>0</Version>
+        <tools>
+          <tool>
+            <name>Import Apex</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Import\Import Apex\res\Apex.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Import\Import Apex\src\import_apex_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Import</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Contact Model Creation Utility</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Export\Contact Model Creation Utility\res\gerContactModelCreation_grau.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Export\Contact Model Creation Utility\src\gerContactModelCreation_main_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Export</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Setup Study</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Export\CreateStudy\res\setupStudy.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Export\CreateStudy\src\setupStudy_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Export</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Export Transient</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Export\Export112\res\icon_112.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Export\Export112\src\bdfExport_112_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Export</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Export Utils</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Export\ExportUtils\res\bdfExportBeta.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Export\ExportUtils\src\bdfExport_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Export</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Export Random</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\interoperability\export\exportrandom\res\icon_111.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\interoperability\export\exportrandom\src\bdfExport_RANDOM_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Export</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Start CAEfatigue</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\CAE Fatigue\StartCAEfatigue\res\cf_start2.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\CAE Fatigue\StartCAEfatigue\src\cfstart_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>CAE Fatigue</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>GD Optimisation Queue</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Generative Design Tools\GD Optimisation Queue\res\GD_OptimisationQueue.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Generative Design Tools\GD Optimisation Queue\src\GD_OptimisationQueue_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Generative Design Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Import Adams Loads</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Generative Design Tools\import Adams loads\res\Icon_importAdamsLoads.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Generative Design Tools\import Adams loads\src\importAdamsLoads_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Generative Design Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Automated Mesh to CAD</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Generative Design Tools\Automated Mesh to CAD\res\AutomatedMeshToCAD.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\Generative Design Tools\Automated Mesh to CAD\src\AutomatedMeshToCAD_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Generative Design Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Export Marc</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\interoperability\nonlinear\exportmarc\res\icon_marc.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\interoperability\nonlinear\exportmarc\src\marcExport_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Marc and Mentat</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Export Mentat</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\interoperability\nonlinear\exportmentat\res\icon_mentat.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\interoperability\nonlinear\exportmentat\src\mentatExport_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Marc and Mentat</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Auto Assign Sections for Export to Hypersizer</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\interoperability\hypersizer utils\auto assign sections for export to hypersizer\res\AutoAssignSections.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\interoperability\hypersizer utils\auto assign sections for export to hypersizer\src\AutoAssignSections_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Hypersizer Utils</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Import Plies from Hypersizer</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\interoperability\hypersizer utils\import plies from hypersizer\res\importHyperSizer.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\interoperability\hypersizer utils\import plies from hypersizer\src\importHyperSizer_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Hypersizer Utils</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+        </tools>
+        <Name>Interoperability Utilities</Name>
+        <Icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability\res\interoperabilityUtilities.png</Icon>
+        <DirectoryName>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Interoperability</DirectoryName>
+        <IsActive>true</IsActive>
+        <Description>Interoperability Utilties</Description>
+      </palette>
+      <palette>
+        <Version>0</Version>
+        <tools>
+          <tool>
+            <name>Model_Name</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\0_General\Model Name\res\modelName.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\0_General\Model Name\src\auModelName_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>0_General</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Manage Parts and Assemblies</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\0_General\Manage Parts and Assemblies\res\auManagePartsAndAssemblies.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\0_General\Manage Parts and Assemblies\src\auManagePartsAndAssemblies_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>0_General</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Automated Report</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\0_General\Automated Report\res\icon_report.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\0_General\Automated Report\src\UI_report.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>0_General</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Ply Book Report</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\0_General\Ply Book Report\res\icon_ply.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\0_General\Ply Book Report\src\auReport_ply_book_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>0_General</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Panel BOM</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\query tools\0_general\bom\res\icon_bom.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\apex utilities\query tools\0_general\bom\src\auReport_bom_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>0_General</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Count By Part</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Counting\Count By Part\res\auCountElmsByPart.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Counting\Count By Part\src\auCountElmsByPart_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Counting</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Count Elms Nodes</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Counting\Count Elms Nodes\res\auCountElms.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Counting\Count Elms Nodes\src\auCountElms_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Counting</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Count Selected</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Counting\Count Selected\res\auCountSelectedElms.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Counting\Count Selected\src\auCountSelectedElms_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Counting</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>ID Range</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Counting\ID Range\res\auIDRange.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Counting\ID Range\src\auIDRange_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Counting</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Label Element Data</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\FEM\Label Element Data\res\auLabelElementData.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\FEM\Label Element Data\src\auLabelElementData_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>FEM</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Min Elm Edge Length</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\FEM\Min Elm Edge Length\res\auElmEdgeLength.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\FEM\Min Elm Edge Length\src\auMinElmEdgeLength_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>FEM</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Curve Data</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Geometry\Curve Data\res\auCurveData.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Geometry\Curve Data\src\auCurveData_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Location Data</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Geometry\Location Data\res\auLocationData.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Geometry\Location Data\src\auLocationData_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Similar_Solids</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Geometry\Similar Solids\res\auFindSimilarSolids.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Geometry\Similar Solids\src\auFindSimilarSolids_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Solid Data</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Geometry\Solid Data\res\auSolidData.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Geometry\Solid Data\src\auSolidData_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Surface Data</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Geometry\Surface Data\res\auSurfData.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Geometry\Surface Data\src\auSurfaceData_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Geometry</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Mass Properties of solids</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Mass Properties\Mass of Solids\res\auMassPropsSolids.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Mass Properties\Mass of Solids\src\auMassProps_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Mass Properties</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Automatic Group Creation</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Grouping\Auto Create Groups\res\auAutoGroups.jpg</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\Grouping\Auto Create Groups\src\auAutoGroups_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Grouping</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+        </tools>
+        <Name>Query Tools</Name>
+        <Icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools\res\query.png</Icon>
+        <DirectoryName>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Apex Utilities\Query Tools</DirectoryName>
+        <IsActive>true</IsActive>
+        <Description>Scripts to count nodes/elms, show position, length, area, volume, mass</Description>
+      </palette>
+    </palettes>
+  </location>
+  <location>
+    <name>Demo Tools</name>
+    <isactive>true</isactive>
+    <location>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools</location>
+    <palettes>
+      <palette>
+        <Version>0</Version>
+        <tools>
+          <tool>
+            <name>Mesh Selected Bodies</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\Meshing and introspection demos\Meshing Tools\Mesh Selected Bodies\res\Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\Meshing and introspection demos\Meshing Tools\Mesh Selected Bodies\src\mesh_selected_bodies_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Meshing Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Auto Execute Mesh</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\Meshing and introspection demos\Meshing Tools\Auto Execute Mesh\res\Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\Meshing and introspection demos\Meshing Tools\Auto Execute Mesh\src\mesh_selected_bodies_auto_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Meshing Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Mesh All Bodies</name>
+            <icon>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\demo tools\meshing and introspection demos\meshing tools\mesh all bodies\res\Robot_48.png</icon>
+            <filename>c:\users\cvrf\documents\msc_apex workspace\custom tools 2022.1\demo tools\meshing and introspection demos\meshing tools\mesh all bodies\src\mesh_all_bodies_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Meshing Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Node Element Counts</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\Meshing and introspection demos\Introspection Tools\Node Element Counts\res\Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\Meshing and introspection demos\Introspection Tools\Node Element Counts\src\display_node_element_counts_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Introspection Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Assembly Part TreeView</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\Meshing and introspection demos\Introspection Tools\Assembly Part TreeView\res\Robot.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\Meshing and introspection demos\Introspection Tools\Assembly Part TreeView\src\assembly_part_tree_view_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Introspection Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Parts DataGrid</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\Meshing and introspection demos\Introspection Tools\Parts DataGrid\res\Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\Meshing and introspection demos\Introspection Tools\Parts DataGrid\src\parts_data_grid_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>Introspection Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+        </tools>
+        <Name>Meshing and introspection demo tools</Name>
+        <Icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\Meshing and introspection demos\res\Palette2.png</Icon>
+        <DirectoryName>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\Meshing and introspection demos</DirectoryName>
+        <IsActive>true</IsActive>
+        <Description>A collection of tool demonstrating common usage patterns of custom tools with user interfaces</Description>
+      </palette>
+      <palette>
+        <Version>0</Version>
+        <tools>
+          <tool>
+            <name>Empty Tool</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Empty Tool\res\06_Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Empty Tool\src\empty_tool_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>UI Control Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Hello World</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Hello World\res\06_Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Hello World\src\hello_world_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>UI Control Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>CheckBox</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\CheckBox\res\Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\CheckBox\src\check_box_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>UI Control Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Simple Layout</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Simple Layout\res\Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Simple Layout\src\simple_layout_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>UI Control Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Radio Button</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Radio Button\res\script.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Radio Button\src\radio_button_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>UI Control Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Radio Button Icon</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Radio Button Icon\res\mixed.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Radio Button Icon\src\radio_button_icon_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>UI Control Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Pick Filter</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Pick Filter\res\Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Pick Filter\src\pick_filter_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>UI Control Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Selection Stages</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Selection Stages\res\Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Selection Stages\src\selection_stage_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>UI Control Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>File Dialog</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\File Dialog\res\Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\File Dialog\src\file_dialog_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>UI Control Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Color Picker</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Color Picker\res\Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Color Picker\src\color_picker_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>UI Control Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Load Xaml</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Load Xaml\res\Robot_48.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\UI Control Tools\Load Xaml\src\load_xaml_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>0</version>
+            <groupname>UI Control Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Sketch And Mesh</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\Batch Tools\Sketch And Mesh\res\Robot.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\Batch Tools\Sketch And Mesh\src\CreateSolidMesh.py</filename>
+            <tooltype>noui_tool</tooltype>
+            <version>0</version>
+            <groupname>Batch Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+        </tools>
+        <Name>UI Control and batch demo tools</Name>
+        <Icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools\res\Sample1.png</Icon>
+        <DirectoryName>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Demo Tools\UI control and batch tools</DirectoryName>
+        <IsActive>true</IsActive>
+        <Description>A collection of tools demonstrating basic usage of custom tools</Description>
+      </palette>
+    </palettes>
+  </location>
+  <location>
+    <name>Yuma Utilities</name>
+    <isactive>true</isactive>
+    <location>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities</location>
+    <palettes>
+      <palette>
+        <Version>1</Version>
+        <tools>
+          <tool>
+            <name>Plate Generator</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities\Yuma Tools\First Tools\Plate Generator\res\plate.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities\Yuma Tools\First Tools\Plate Generator\src\plateGenerator_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>1</version>
+            <groupname>First Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Splitter</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities\Yuma Tools\First Tools\Splitter\res\splitter.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities\Yuma Tools\First Tools\Splitter\src\splitter_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>1</version>
+            <groupname>First Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Project Mesh</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities\Yuma Tools\First Tools\Project Mesh\res\pro.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities\Yuma Tools\First Tools\Project Mesh\src\projectmesh_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>1</version>
+            <groupname>First Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+          <tool>
+            <name>Satellite Tool</name>
+            <icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities\Yuma Tools\First Tools\Satellite Tool\res\Satelite.png</icon>
+            <filename>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities\Yuma Tools\First Tools\Satellite Tool\src\sateliteTool_ui.py</filename>
+            <tooltype>ui_tool</tooltype>
+            <version>1</version>
+            <groupname>First Tools</groupname>
+            <isVisible>true</isVisible>
+          </tool>
+        </tools>
+        <Name>Yuma Tools</Name>
+        <Icon>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities\Yuma Tools\res\yuma.png</Icon>
+        <DirectoryName>C:\Users\cvrf\Documents\MSC_Apex Workspace\Custom Tools 2022.1\Yuma Utilities\Yuma Tools</DirectoryName>
+        <IsActive>true</IsActive>
+        <Description>Tools created by Yuma Engineering</Description>
+      </palette>
+    </palettes>
+  </location>
+</configurations>
